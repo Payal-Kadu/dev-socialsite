@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://payal123:payal123@devconnector-yemtq.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtToken": "mysecrettoken",
+  "githubClientId": "77c2a1af00655d045b81",
+  "githubSecret": "86a7a114b6556af7d4802a2d2f92e77fd678c49b"
+}
